@@ -22,6 +22,8 @@ This is useful if:
 
 Plugin banner and icon by <a href="https://www.flickr.com/photos/matthewgriff/4112899269/">matthewgriff</a>.
 
+The plugin is under <a href="https://github.com/ronalfy/slash-edit">active development over at GitHub</a>.
+
 == Installation ==
 
 1. Just unzip and upload the "slash-edit" folder to your '/wp-content/plugins/' directory
